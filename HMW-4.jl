@@ -10,7 +10,7 @@ using ProgressBars
 #### ----- ###
 cd(@__DIR__)
 #### Before getting started you should write your student_number in integer format
-const student_number::Int64 = 13474139978  ## <---replace 0 by your student_number 
+const student_number::Int64 = 1234567891 ## <---replace 0 by your student_number 
 ### ---- ###
 ## In this homework we will do a little constrained optimization to approixmate local minima of some function
 ## To do this you will use penalty methods
