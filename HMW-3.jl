@@ -17,7 +17,7 @@ using LinearAlgebra
 #### ----- ###
 cd(@__DIR__)
 #### Before getting started you should write your student_number in integer format
-const student_number::Int64 = 13474139978  ## <---replace 0 by your student_number 
+const student_number::Int64 = 1234567891 ## <---replace 0 by your student_number 
 ### ---- ###
 ## Assume that you are given a matrix A. In this assignment you will need to find inverse of A provided that it is invertibble, 
 ## you want to determine B so that AB is close to I_d as much as possible use LinearAlgebra.norm!!!!.
